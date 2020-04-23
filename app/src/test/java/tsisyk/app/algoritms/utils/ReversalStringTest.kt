@@ -1,6 +1,7 @@
 package tsisyk.app.algoritms.utils
 
 import org.junit.Assert.assertEquals
+import org.junit.Assert.assertNotEquals
 import org.junit.Test
 
 
@@ -30,5 +31,11 @@ class ReversalStringTest {
     fun reverse_empty_string() {
          var testWord = ""
         assertEquals( SUT.reverseString(testWord), "")
+    }
+
+    @Test
+    fun reverse_popa_string() {
+         var testWord = "popa"
+        assertNotEquals( SUT.reverseString(testWord), "")
     }
 }
