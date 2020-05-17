@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class FibonacciGenerator {
     fun generateFibonacci(n: Int): List<Int> {

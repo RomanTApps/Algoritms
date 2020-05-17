@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class MatrixOperations {
     fun addMatrices(m1: Array<Array<Int>>, m2: Array<Array<Int>>): Array<Array<Int>> {

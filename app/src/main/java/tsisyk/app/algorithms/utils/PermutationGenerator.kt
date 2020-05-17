@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class PermutationGenerator {
     fun <T> generatePermutations(list: List<T>): List<List<T>> {

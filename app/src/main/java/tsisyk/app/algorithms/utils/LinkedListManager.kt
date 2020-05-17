@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class LinkedListManager<T> {
     data class Node<T>(var value: T, var next: Node<T>? = null)

@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class BinarySearchTreeManager {
     data class TreeNode(val value: Int, var left: TreeNode? = null, var right: TreeNode? = null)

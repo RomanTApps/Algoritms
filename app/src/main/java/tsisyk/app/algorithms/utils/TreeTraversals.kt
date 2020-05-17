@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class TreeTraversals {
     fun inorderTraversal(root: TreeNode?): List<Int> {

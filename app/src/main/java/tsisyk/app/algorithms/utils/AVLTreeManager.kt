@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class AVLTreeManager {
     data class TreeNode(val value: Int, var left: TreeNode? = null, var right: TreeNode? = null, var height: Int = 1)

@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class CombinationGenerator {
     fun <T> generateCombinations(list: List<T>, size: Int): List<List<T>> {

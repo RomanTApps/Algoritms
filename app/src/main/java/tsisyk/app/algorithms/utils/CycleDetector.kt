@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class CycleDetector {
     fun hasCycle(graph: Map<Int, List<Int>>): Boolean {

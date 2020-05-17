@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms.utils
+package tsisyk.app.algorithms.utils
 
 class DoublyLinkedListManager<T> {
     data class Node<T>(var value: T, var prev: Node<T>? = null, var next: Node<T>? = null)

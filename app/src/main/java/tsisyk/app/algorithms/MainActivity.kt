@@ -1,4 +1,4 @@
-package tsisyk.app.algoritms
+package tsisyk.app.algorithms
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
